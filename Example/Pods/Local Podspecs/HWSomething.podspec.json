@@ -1,0 +1,25 @@
+{
+  "name": "HWSomething",
+  "version": "0.1.0",
+  "summary": "A short description of HWSomething.",
+  "description": "                       An optional longer description of HWSomething\n\n                       * Markdown format.\n                       * Don't worry about the indent, we strip it!\n",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/HWSomething",
+  "license": "MIT",
+  "authors": {
+    "henriquewilson1": "me@henriquewilson.com.br"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/HWSomething.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "HWSomething": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

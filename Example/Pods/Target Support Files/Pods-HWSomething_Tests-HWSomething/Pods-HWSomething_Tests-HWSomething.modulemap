@@ -1,0 +1,6 @@
+framework module HWSomething {
+  umbrella header "Pods-HWSomething_Tests-HWSomething-umbrella.h"
+
+  export *
+  module * { export * }
+}

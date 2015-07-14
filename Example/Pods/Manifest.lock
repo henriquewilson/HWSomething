@@ -1,0 +1,14 @@
+PODS:
+  - HWSomething (0.1.0)
+
+DEPENDENCIES:
+  - HWSomething (from `../`)
+
+EXTERNAL SOURCES:
+  HWSomething:
+    :path: ../
+
+SPEC CHECKSUMS:
+  HWSomething: 08a59d90d754bb230932bbae648d8a04187508c0
+
+COCOAPODS: 0.37.2
